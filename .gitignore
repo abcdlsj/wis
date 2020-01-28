@@ -1,2 +1,2 @@
-.ccls-cache/*
-.gitignore
+./.ccls-cache/
+./.gitignore
