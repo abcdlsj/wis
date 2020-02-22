@@ -9,9 +9,9 @@
 
 ## FUTURE
 
-- [x] TODO wis (base, just for fun)
-- [x] TODO fltk_wis (use fltk gui)
-- [x] TODO ncurses_wis (use ncurses lib)
+- [] TODO wis (base, just for fun)
+- [] TODO fltk_wis (use fltk gui)
+- [] TODO ncurses_wis (use ncurses lib)
 
 ## behaviors
 ### undo/redo
