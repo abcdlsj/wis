@@ -1,4 +1,4 @@
-# A Editor Named WIS
+# A Editor Named WIS(WIP)
 
 ## IDEAS
 
